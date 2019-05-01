@@ -7,3 +7,4 @@ d12, d20, and d100. But should theoretically work with any number of sides you w
 3. In the event you decide upon 6 sides, it will ask if you wish to eliminate 1s and 2s as possible results. (To aid with RPG character 
 creation.) you can answer y or yes if you wish to do so.
 4. It will present the numbers that it generates in an array.
+5. The program will then ask you if you wish to roll the dice again.
